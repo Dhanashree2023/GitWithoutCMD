@@ -22,6 +22,10 @@ public class Test1 {
 			// TODO: handle exception
 		}
 		
+		do {
+			
+		} while (condition);
+		
 		
 	}
 	
