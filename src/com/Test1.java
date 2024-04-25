@@ -15,6 +15,19 @@ public class Test1 {
 		} else {
 
 		}
+		
+		try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
 	}
+	
+	
+	
+	
+	
 
 }
